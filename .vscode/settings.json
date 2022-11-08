@@ -1,5 +1,8 @@
 {
     "cSpell.words": [
-        "flatmap"
+        "argwhere",
+        "flatmap",
+        "nbconvert",
+        "nditer"
     ]
 }

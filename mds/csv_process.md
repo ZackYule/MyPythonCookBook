@@ -20,7 +20,7 @@ handler_id = logger.add(sys.stderr, level="DEBUG")
 
 
 ```python
-def get_column_info_info_from_csv(file_path:str, column_num:int)->list[dict]:
+def get_column_info_from_csv(file_path:str, column_num:int)->list[dict]:
     if not os.path.isfile(file_path):
         logger.debug(file_path)
         logger.info('没有找到读取文件')

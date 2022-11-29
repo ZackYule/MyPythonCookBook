@@ -2,6 +2,7 @@
 *.csv
 *.xlsx
 ./resource
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -132,3 +133,24 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.DS_Store
+.DS_Store
+mds/city_data_clean.md
+mds/city_data_preprocess.md
+mds/city_data_process.md
+mds/city_data_statistics.md
+mds/city_data_visualization.md
+mds/LDA_zhihu.md
+mds/mds/city_data_process_26_0.png
+mds/mds/city_data_process_28_0.png
+mds/mds/city_data_visualization_14_0.png
+mds/mds/city_data_visualization_16_0.png
+mds/mds/city_data_visualization_17_0.png
+mds/mds/LDA_zhihu_27_0.png
+mds/mds/LDA_zhihu_28_0.png
+utils/city_data_clean.ipynb
+utils/city_data_preprocess.ipynb
+utils/city_data_process.ipynb
+utils/city_data_statistics.ipynb
+utils/city_data_visualization.ipynb
+utils/LDA_zhihu.ipynb
